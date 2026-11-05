@@ -1,2 +1,2 @@
-# hello-pet-practice
+# hello-pet-world
 My first vibe-coded interactive website
